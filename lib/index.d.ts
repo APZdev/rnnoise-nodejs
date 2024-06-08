@@ -1,4 +1,4 @@
-declare module "rnnoise-fork" {
+declare module "rnnoise-win" {
   /**
    * Suppress noise in an audio file.
    *

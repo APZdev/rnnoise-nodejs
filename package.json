@@ -1,5 +1,5 @@
 {
-  "name": "rnnoise-fork",
+  "name": "rnnoise-win",
   "version": "0.0.1",
   "description": "[FORK] Node.js bindings to Xiph's RNNoise denoising C library",
   "keywords": [
