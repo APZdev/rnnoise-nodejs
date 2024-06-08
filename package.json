@@ -1,6 +1,6 @@
 {
   "name": "rnnoise-win",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "description": "[FORK] Node.js bindings to Xiph's RNNoise denoising C library",
   "keywords": [
     "audio",
@@ -12,7 +12,7 @@
     "rnn"
   ],
   "main": "lib/index.js",
-  "typings": "lib/index.d.ts",
+  "types": "lib/index.d.ts",
   "homepage": "https://github.com/APZdev/rnnoise-nodejs#readme",
   "repository": {
     "type": "git",
@@ -40,7 +40,7 @@
     "module_name": "index",
     "host": "https://github.com/APZdev/rnnoise-nodejs/releases/download/",
     "remote_path": "{version}",
-    "package_name": "{node_abi}-linux-{arch}.tar.gz",
+    "package_name": "node-v108-linux-{arch}.tar.gz",
     "module_path": "./native/"
   }
 }
