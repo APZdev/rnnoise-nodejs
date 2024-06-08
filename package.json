@@ -1,6 +1,6 @@
 {
   "name": "rnnoise-fork",
-  "version": "0.1.8",
+  "version": "0.0.1",
   "description": "[FORK] Node.js bindings to Xiph's RNNoise denoising C library",
   "keywords": [
     "audio",
